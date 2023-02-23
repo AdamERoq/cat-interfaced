@@ -4,3 +4,4 @@ public interface Purr {
 	// Returns loudness in decibels
 	public int purr();
 }
+
